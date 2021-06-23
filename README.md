@@ -6,7 +6,7 @@ download the training dataset<br>
 python main.py --phase train --dataset VIF
 
 ## To test:
-download the model<br>
+download the [model](https://drive.google.com/drive/folders/1iWnQwrNvariIkzRDEc-wWygTgeT3mv9F?usp=sharing)<br>
 python main.py --phase test --dataset VIF
 
 Cite it as:
