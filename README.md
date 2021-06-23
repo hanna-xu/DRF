@@ -1,6 +1,12 @@
 # DRF
 Code of DRF: Disentangled Representation for Visible and Infrared Image Fusion
 
+## To train:
+python main.py --phase train --dataset VIF
+
+## To test:
+python main.py --phase test --dataset VIF
+
 Cite it as:
 ```
 @article{xu2021drf,
