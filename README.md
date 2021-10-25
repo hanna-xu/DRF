@@ -2,7 +2,7 @@
 Code of DRF: Disentangled Representation for Visible and Infrared Image Fusion
 
 ## To train:
-download the training dataset through [*Google Drive link*](https://drive.google.com/drive/folders/1ne85zkcmkdBfLppTQGO_XcF3x6_vIe3z?usp=sharing) or [*BaiduYun link*](https://pan.baidu.com/s/1IooSMDDgz8-SeMG7rj--2w) (password:i205)<br>
+download the training dataset through [*Google Drive link*](https://drive.google.com/drive/folders/1ne85zkcmkdBfLppTQGO_XcF3x6_vIe3z?usp=sharing) or [*BaiduYun link*](https://pan.baidu.com/s/1D81NYtyUGKI55xYKQDlcNg) (password:vzcz)<br>
 python main.py --phase train --dataset VIF
 
 ## To test:
